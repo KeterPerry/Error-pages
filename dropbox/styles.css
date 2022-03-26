@@ -1,0 +1,30 @@
+*{
+    position:relative;
+    margin:auto;
+    box-sizing: border-box;
+    max-width: 700px;
+    font: 81.25%/1.75 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+#h1{
+    font-size: 40px;
+}
+#h2{
+    font-size:small;
+}
+.container {
+    
+    text-align: center;
+    font-family:"Open Sans","lucida grande","Segoe UI",arial,verdana,"lucida sans unicode",tahoma,sans-serif; 
+    font-weight: normal;
+} 
+
+a:link{
+    text-decoration: none;
+
+}
+
+.image{
+  width: 300px;
+  height:300px;
+
+}
